@@ -3,9 +3,11 @@ This repository contains 2 files: hw0_stack.c and hw0_pc.c
 each were compiled on linux using the following commands:
 
 gcc -o stack hw0_stack.c
+
 ./stack
 
 gcc -o prod_cons hw0_pc.c
+
 ./prod_cons
 
 
